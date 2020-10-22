@@ -17,8 +17,8 @@
   - Set PIN
 
 ## Configurations for Raspberry Pi
-  - [Install and configure raspbian](https://github.com/ivan28823/arduino-wifi-connection/blob/master/README.md#raspberry-pi-setup)
-  - [Configure python3 as default python interpreter](https://github.com/ivan28823/arduino-wifi-connection/blob/master/README.md#raspberry-pi-setup)
+  - [Install and configure raspbian](https://github.com/ivanmorenoj/arduino-wifi-connection/blob/master/README.md#raspberry-pi-setup)
+  - [Configure python3 as default python interpreter](https://github.com/ivanmorenoj/arduino-wifi-connection/blob/master/README.md#raspberry-pi-setup)
   - Install Bluetooth packages
   - Pair with HC-05 module
   - Copy Bluetooth code
@@ -56,7 +56,7 @@ Disconnect and test settings
 
 # Raspberry Pi Setup
 
-Once installed raspbian and make the [basic configurations](https://github.com/ivan28823/arduino-wifi-connection/blob/master/README.md#raspberry-pi-setup), install Bluetooth required packages. 
+Once installed raspbian and make the [basic configurations](https://github.com/ivanmorenoj/arduino-wifi-connection/blob/master/README.md#raspberry-pi-setup), install Bluetooth required packages. 
 
 ```sh
 $ sudo apt install -y pi-bluetooth bluetooth bluez picocom blueman python3-pip
